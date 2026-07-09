@@ -104,7 +104,7 @@ export const PROJECTS = [
       'A personal portfolio site built with React and Vite to showcase my projects, skills and ' +
       'credentials — the same site you are looking at right now.',
     tags: ['React', 'Vite', 'CSS'],
-    demoUrl: '',
+    demoUrl: 'guganesh-portfolio-2n8h.vercel.app',
     cover: '/projects/portfolio-1.png',
     screenshots: [
       '/projects/portfolio-1.png',
